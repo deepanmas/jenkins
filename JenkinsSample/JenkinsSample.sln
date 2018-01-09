@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsSample", "JenkinsSample\JenkinsSample.csproj", "{31A6ACB2-C8DB-4017-A7A6-C8D0341BDE30}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsSample", "Jenkins\JenkinsSample\JenkinsSample.csproj", "{31A6ACB2-C8DB-4017-A7A6-C8D0341BDE30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
